@@ -20,9 +20,9 @@ I'm a passionate tech enthusiast and developer with a strong interest in **backe
 ## 📌 Featured Skills
 
 - **Languages**: PHP, Python, JavaScript  
-- **Frameworks & Tools**: Laravel, Livewire, Tailwind CSS  
+- **Frameworks & Tools**: Laravel
 - **Databases**: MySQL, SQLite  
-- **Other Tools**: Git, GitHub, Figma, Postman
+- **Other Tools**: Git, GitHub, Figma, Retool
 
 ---
 
