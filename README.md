@@ -1,7 +1,5 @@
 # Well hello there, I'm Saif 🙋‍♂️
 
-Welcome to my GitHub profile!
-
 I'm a passionate tech enthusiast and developer with a strong interest in **backend systems**, **web development**, and **problem-solving**. I'm currently diving into scalable applications and performance optimization while building projects using Laravel. I also have a growing interest in **Data Science** and **Machine Learning**.
 
 ---
