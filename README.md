@@ -27,7 +27,7 @@ I'm a passionate tech enthusiast and developer with a strong interest in **backe
 ## 🤝 Let's Connect!
 
 - 📧 Email: [sefat64@gmail.com](mailto:sefat64@gmail.com)  
-- 🌐 Portfolio: [github.com/Rcxtor](https://github.com/Rcxtor)
+- 🌐 Portfolio: [Link](https://rcxtor.vercel.app/)
 
 ---
 
